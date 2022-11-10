@@ -1,0 +1,3 @@
+配置好 build 插件
+利用 dockerfile:build 进行打包
+run image测试 ip:18888/demo
